@@ -107,6 +107,7 @@ define("ace/theme/tomorrow_night", ["require", "exports", "module", "ace/lib/dom
     .ace-tomorrow_night-theme .ace_keyword.ace_operator {
       color: #CCCCFF;
     }
+    
     .ace-tomorrow_night-theme {
       text-shadow: 
         -0.4px -0.4px 0 #50C878,
