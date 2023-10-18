@@ -108,6 +108,14 @@ define("ace/theme/tomorrow_night", ["require", "exports", "module", "ace/lib/dom
     .ace-tomorrow_night-theme .ace_keyword.ace_operator {
       color: #D70040;
     }
+
+    .ace-tomorrow_night-theme {
+      text-shadow: 
+        -0.4px -0.4px 0 #6495ED,
+        0.4px -0.4px 0 #6495ED,
+        -0.4px 0.4px 0 #6495ED,
+        0.4px 0.4px 0 #6495ED;
+    }
   `;
   
   var r = e("../lib/dom");
