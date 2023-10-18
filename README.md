@@ -3,9 +3,9 @@ Themes for macsploit - discord.gg/macsploit
 
 Nebula theme install script:
 ```bash
-curl -s "https://raw.githubusercontent.com/devnorb/macsploit-themes/main/nebula.js" | bash
+curl -s "https://raw.githubusercontent.com/devnorb/macsploit-themes/main/nebulainstall.bash" | bash
 ```
 Hacker theme install script:
 ```bash
-curl -s "https://raw.githubusercontent.com/devnorb/macsploit-themes/main/hacker.js" | bash
+curl -s "https://raw.githubusercontent.com/devnorb/macsploit-themes/main/hackerinstall.bash" | bash
 ```
