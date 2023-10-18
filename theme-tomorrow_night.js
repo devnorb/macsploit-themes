@@ -1,3 +1,4 @@
+//nebula theme
 define("ace/theme/tomorrow_night", ["require", "exports", "module", "ace/lib/dom"], function(e, t, n) {
   t.isDark = !0;
   t.cssClass = "ace-tomorrow_night-theme";
@@ -25,7 +26,7 @@ define("ace/theme/tomorrow_night", ["require", "exports", "module", "ace/lib/dom
     }
     
     .ace-tomorrow_night-theme .ace_selection {
-      background-color: #E6E6FA;
+      background-color: #dfd6ef;
     }
     
     .ace-tomorrow_night-theme.ace_multiselect .ace_selection.ace_start {
