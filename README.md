@@ -21,3 +21,8 @@ Blurple theme install script:
 ```bash
 curl -s "https://raw.githubusercontent.com/devnorb/macsploit-themes/main/blurpleinstall.sh" | bash
 ```
+Anime theme install script:
+```bash
+curl -s "https://raw.githubusercontent.com/devnorb/macsploit-themes/main/animeinstall.sh" | bash
+```
+
