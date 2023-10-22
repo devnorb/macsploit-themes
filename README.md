@@ -29,5 +29,9 @@ Acid theme install script:
 ```bash
 curl -s "https://raw.githubusercontent.com/devnorb/macsploit-themes/main/acidinstall.sh" | bash
 ```
+Ghost theme install script:
+```bash
+curl -s "https://raw.githubusercontent.com/devnorb/macsploit-themes/main/ghostinstall.sh" | bash
+```
 
 
