@@ -1,5 +1,4 @@
 /** Anime Theme */
-/** Your lie in April Theme */
 define("ace/theme/tomorrow_night", ["require", "exports", "module", "ace/lib/dom"], function(e, t, n) {
   t.isDark = !0;
   t.cssClass = "ace-tomorrow_night-theme";
