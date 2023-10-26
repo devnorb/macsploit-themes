@@ -37,5 +37,10 @@ Floppa theme install script:
 ```bash
 curl -s "https://raw.githubusercontent.com/devnorb/macsploit-themes/main/floppainstall.sh" | bash
 ```
+Car theme install script:
+```bash
+curl -s "https://raw.githubusercontent.com/devnorb/macsploit-themes/main/carinstall.sh" | bash
+```
+
 
 
