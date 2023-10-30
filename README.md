@@ -41,6 +41,9 @@ Car theme install script:
 ```bash
 curl -s "https://raw.githubusercontent.com/devnorb/macsploit-themes/main/carinstall.sh" | bash
 ```
-
+Neon City theme install script:
+```bash
+curl -s "https://raw.githubusercontent.com/devnorb/macsploit-themes/main/neoncityinstall.sh" | bash
+```
 
 
