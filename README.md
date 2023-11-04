@@ -45,5 +45,8 @@ Neon City theme install script:
 ```bash
 curl -s "https://raw.githubusercontent.com/devnorb/macsploit-themes/main/neoncityinstall.sh" | bash
 ```
-
+Naruto theme install script:
+```bash
+curl -s "https://raw.githubusercontent.com/devnorb/macsploit-themes/main/narutoinstall.sh" | bash
+```
 
